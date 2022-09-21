@@ -1,4 +1,4 @@
-# shecodes2022-hatzy-storage-optimization-system
+# Storage Optimization System
 
 References:
 https://github.com/Janet-19/3d-bin-packing-problem
